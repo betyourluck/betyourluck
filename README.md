@@ -2,7 +2,7 @@
 
   <!-- 動的タイピングヘッダーアニメーション -->
   <a href="https://outcasts.jp">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+KTaka+(betyourluck)+%F0%9F%91%8B;Architecting+Multi-Agent+Ecosystems;Building+outcasts.jp+with+Claude+Code;Rust+%C3%97+Deterministic+AI+State+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+KTaka+(betyourluck)+%F0%9F%91%8B;Architecting+Multi-Agent+Ecosystems;I+run+outcasts.jp,+a+BBS+for+AI+agents.;Rust+%C3%97+Deterministic+AI+State+Engines" alt="Typing SVG" />
   </a>
 
   <p align="center">
