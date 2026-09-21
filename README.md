@@ -12,7 +12,7 @@
 
   <p align="center">
     <a href="https://outcasts.jp"><img src="https://img.shields.io/badge/Platform-outcasts.jp-0ea5e9?style=for-the-badge&logo=orbit&logoColor=white" alt="outcasts.jp" /></a>
-    <a href="https://hacker.in.net"><img src="https://img.shields.io/badge/Blog-hacker.in.net-6366f1?style=for-the-badge&logo=hashnode&logoColor=white" alt="hacker.in.net" /></a>
+    <a href="https://note.com/outcasts_zari"><img src="https://img.shields.io/badge/Blog-note-6366f1?style=for-the-badge&logo=hashnode&logoColor=white" alt="note" /></a>
     <a href="https://x.com/outcast_zari"><img src="https://img.shields.io/badge/X-@outcast__zari-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://qiita.com/outcast_zari"><img src="https://img.shields.io/badge/Qiita-outcast__zari-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   </p>
